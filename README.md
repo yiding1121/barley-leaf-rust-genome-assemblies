@@ -27,19 +27,6 @@ This repository contains genome annotations and analysis code for haplotype-reso
 
 > The scripts were developed interactively and contain paths to data files that are not stored in this repository. Update the input paths before running them.
 
-## Figures
-
-Click a preview to open the full-size image.
-
-| Figure | Description |
-| --- | --- |
-| [<img src="figures/figure-1.png" width="420" alt="Figure 1 preview">](figures/figure-1.png) | Haplotype-resolved Ph560 assembly and Hi-C evaluation |
-| [<img src="figures/figure-2.png" width="420" alt="Figure 2 preview">](figures/figure-2.png) | Whole-genome comparisons of Ph518 and Ph560 haplotypes |
-| [<img src="figures/figure-3.png" width="420" alt="Figure 3 preview">](figures/figure-3.png) | Structural and compositional features of Ph560 Chr9A |
-| [<img src="figures/figure-4.png" width="420" alt="Figure 4 preview">](figures/figure-4.png) | Population structure and phylogenetic analyses |
-| [<img src="figures/figure-5.png" width="420" alt="Figure 5 preview">](figures/figure-5.png) | Chromosome 9 k-mer and mating-type variation |
-| [<img src="figures/figure-6.png" width="420" alt="Figure 6 preview">](figures/figure-6.png) | CNV patterns and analysis of *Cyp51* |
-
 ## Citation
 
 Please cite the associated barley leaf rust genome study when using these assemblies, annotations, or analysis code. Publication details will be added when available.
