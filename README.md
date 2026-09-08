@@ -29,4 +29,8 @@ This repository contains genome annotations and analysis code for haplotype-reso
 
 ## Citation
 
-Please cite the associated barley leaf rust genome study when using these assemblies, annotations, or analysis code. Publication details will be added when available.
+Please cite the associated barley leaf rust genome study when using these assemblies, annotations, or analysis code:
+
+Yu, X., Chhetri, M., Hasan, M., Roberts, T.H., Zhang, P., Park, R.F. and Ding, Y. (2026), Comparative genomics reveals lineage-associated structural variation and diversification in a barley fungal pathogen. New Phytol. https://doi.org/10.1111/nph.71571
+
+
